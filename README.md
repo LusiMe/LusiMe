@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lusi
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
+- 👀 I’m iOS Developer
 - 📫 You can reach me via email: parfenovalp95@gmail.com
 
 <!---
